@@ -11,6 +11,7 @@
 		0E3BDCC027DCD193001FF2B2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E3BDCBF27DCD193001FF2B2 /* ContentView.swift */; };
 		0E3BDCC227DCD197001FF2B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E3BDCC127DCD197001FF2B2 /* Assets.xcassets */; };
 		0E3BDCC527DCD197001FF2B2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E3BDCC427DCD197001FF2B2 /* Preview Assets.xcassets */; };
+		0E3BDCCC27DCD3F1001FF2B2 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E3BDCCB27DCD3F1001FF2B2 /* MyView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0E3BDCBF27DCD193001FF2B2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0E3BDCC127DCD197001FF2B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E3BDCC427DCD197001FF2B2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0E3BDCCB27DCD3F1001FF2B2 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0E3BDCBD27DCD193001FF2B2 /* MyCustomTabViewApp.swift */,
 				0E3BDCBF27DCD193001FF2B2 /* ContentView.swift */,
+				0E3BDCCB27DCD3F1001FF2B2 /* MyView.swift */,
 				0E3BDCC127DCD197001FF2B2 /* Assets.xcassets */,
 				0E3BDCC327DCD197001FF2B2 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E3BDCCC27DCD3F1001FF2B2 /* MyView.swift in Sources */,
 				0E3BDCC027DCD193001FF2B2 /* ContentView.swift in Sources */,
 				0E3BDCBE27DCD193001FF2B2 /* MyCustomTabViewApp.swift in Sources */,
 			);
